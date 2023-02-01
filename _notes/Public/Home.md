@@ -17,34 +17,25 @@ I have also learnt good practices and the fundamentals of UX Design from a diplo
 I am seeking a challenging and innovative project, collaborating with a great team to create products that have an impact. I am confident that my knowledge of UX Design, experience in working at small companies, and drive can add great value to any company.
 
 ### Tools
-
-Figma
-
-Framer
-
-Adobe Suite
-
-Notion
-
-Miro
+- Figma
+- Framer
+- Adobe Suite
+- Notion
+- Miro
 
 ### Skills
-
-Wireframing
-
-Prototyping
-
-UI Design
-
-Research
-
-Interaction Design
-
-Motion Design
+- Wireframing
+- Prototyping
+- UI Design
+- Research
+- Interaction Design
+- Motion Design
 
 # Work
 
-[Work](James%20Coy%20e8801d29b2a448f386786c9a4c4d0e0d/Work%20ddc35f215d7145beba5dde7256965c30.csv)
+[[Stay - Hotel Booking App (Concept)]]
+[[HeadteacherChat Mental models and navigation]]
+
 
 # Experience
 
@@ -90,39 +81,8 @@ During my time at Norwich University of the Arts I focused on the role of Cinema
 - Planning and preparation
 - Documenting my work in detail for collaborators
 
-# Links →
-
-<aside>
-<img src="James%20Coy%20e8801d29b2a448f386786c9a4c4d0e0d/nRtT2z6H.png" alt="James%20Coy%20e8801d29b2a448f386786c9a4c4d0e0d/nRtT2z6H.png" width="40px" /> [Read.CV](https://read.cv/jamco)
-
-[James Coy](https://read.cv/jamco)
-
-</aside>
-
-<aside>
-<img src="https://c.neevacdn.net/image/fetch/s--Te3FbSU5--/https%3A//www.keesingtechnologies.com/wp-content/uploads/2018/07/Linkedin-Icon.png?savepath=Linkedin-Icon.png" alt="https://c.neevacdn.net/image/fetch/s--Te3FbSU5--/https%3A//www.keesingtechnologies.com/wp-content/uploads/2018/07/Linkedin-Icon.png?savepath=Linkedin-Icon.png" width="40px" /> [LinkedIn](http://www.linkedin.com/in/james-coy-designer)
-
-[](http://www.linkedin.com/in/james-coy-designer)
-
-</aside>
-
-<aside>
-<img src="James%20Coy%20e8801d29b2a448f386786c9a4c4d0e0d/logo-AKH74EZP.svg" alt="James%20Coy%20e8801d29b2a448f386786c9a4c4d0e0d/logo-AKH74EZP.svg" width="40px" /> [Layers](https://layers.to/jamco)
-
-[James Coy | Layers](https://layers.to/jamco)
-
-</aside>
-
-<aside>
-<img src="https://c.neevacdn.net/image/fetch/s--c53k4LFz--/https%3A//1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png?savepath=Twitter-Logo.png" alt="https://c.neevacdn.net/image/fetch/s--c53k4LFz--/https%3A//1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png?savepath=Twitter-Logo.png" width="40px" /> [Twitter](https://twitter.com/its_james_coy)
-
-[JavaScript is not available.](https://twitter.com/its_james_coy)
-
-</aside>
-
-<aside>
-<img src="https://lh3.googleusercontent.com/BgO5uK9kxGzg-0JJ5iSonKJ6AWe4xZtFCodM9tNaMtdBf4qDIO9U2_YZkeu9KPAX8GKU6aMQYcQBTwS5nerJkno5wQ=w128-h128-e365-rj-sc0x00ffffff" alt="https://lh3.googleusercontent.com/BgO5uK9kxGzg-0JJ5iSonKJ6AWe4xZtFCodM9tNaMtdBf4qDIO9U2_YZkeu9KPAX8GKU6aMQYcQBTwS5nerJkno5wQ=w128-h128-e365-rj-sc0x00ffffff" width="40px" /> [Are.na](http://Are.na)
-
-[Are.na](https://www.are.na/settings)
-
-</aside>
+# Links
+- [Read.CV](https://read.cv/jamco)
+- [LinkedIn](http://www.linkedin.com/in/james-coy-designer)
+- [Twitter](https://twitter.com/its_james_coy)
+- [Are.na](http://Are.na)

@@ -1,5 +1,5 @@
 ---
-title : Welcome to the garden
+title : HeadteacherChat Mental models and navigation
 feed: show
 date : 17-01-2023
 ---

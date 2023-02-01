@@ -1,5 +1,5 @@
 ---
-title : Welcome to the garden
+title : Stay - Hotel Booking App (Concept)
 feed: show
 date : 07-01-2023
 ---
